@@ -1,6 +1,6 @@
 # Lorenzo
 **Desenvolvedor Software**  
-📍 Presidente Prudente, SP — Brasil | lorenzo.chaves@edu.senai.br |
+ Presidente Prudente, SP — Brasil | lorenzo.chaves@edu.senai.br |
 
 ## Sobre Mim: 
 
@@ -14,14 +14,14 @@ Estudande de Desenvolvimento de Sistemas apaixonado por resolução de problemas
 | **Frameworks / Libs** | Node.js |
 | **Ferramentas / Outros** | Git, GitHub, Exel, Canva, Figma |
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 * **Desenvolvimento de Sistemas** — *Curso tecnico Senai*  
   *Previsão de Conclusão: Dezembro de 2027*
 
 ---
 
-## 📜 Certificações & Cursos
+##  Certificações & Cursos
 
 ### **Tecnologia & IA**
 * **FluennIA - Fundamentos de Inteligência Artificial** (8h) (2026)
