@@ -2,7 +2,9 @@
 **Desenvolvedor Software**  
 📍 Presidente Prudente, SP — Brasil | lorenzo.chaves@edu.senai.br |
 
-## Sobre Mim 
+## Sobre Mim: 
+
+Estudande de Desenvolvimento de Sistemas apaixonado por resolução de problemas e desenvolvimento web.
 
 ## Habilidades Técnicas 
 
