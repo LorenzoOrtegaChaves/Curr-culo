@@ -8,7 +8,7 @@
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Linguagens** | JavaScript (ES6+) |
+| **Linguagens** | JavaScript |
 | **Frameworks / Libs** | Node.js |
 | **Ferramentas / Outros** | Git, GitHub, Exel, Canva, Figma |
 
