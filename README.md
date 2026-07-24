@@ -14,8 +14,8 @@
 
 ## 🎓 Formação Acadêmica
 
-* **Tecnologia em Análise e Desenvolvimento de Sistemas** — *Faculdade XYZ*  
-  *Previsão de Conclusão: Dezembro de 2026*
+* **Desenvolvimento de Sistemas** — *Curso tecnico Senai*  
+  *Previsão de Conclusão: Dezembro de 2027*
 
 ---
 
